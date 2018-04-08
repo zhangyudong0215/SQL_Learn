@@ -11,8 +11,8 @@ Practice makes perfect
 |批量插入数据|insert||
 |批量插入可能重复的数据|insert, ignore|sqlite3和mysql写法不同|
 |创建索引1|create unique index||
-||||
-||||
+|删除记录|delete|删除emp_no重复记录保留最小的id对应记录|
+|替换|update, replace|替换行数据|
 ||||
 ||||
 ||||
