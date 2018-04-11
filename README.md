@@ -16,7 +16,7 @@ Practice makes perfect
 |修改获取奖金的员工当前的薪水|update, set||
 |针对每一个表生成一个sql语句|||
 |统计字符串出现次数|函数|length函数和replace函数|
-|根据字符串末尾进行排序|||
+|根据字符串末尾进行排序|substr函数|substr(string, start_index, length)|
 ||||
 ||||
 ||||
