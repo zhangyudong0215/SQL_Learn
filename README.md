@@ -14,7 +14,7 @@ Practice makes perfect
 |删除记录|delete|删除emp_no重复记录保留最小的id对应记录|
 |替换|update, replace|替换行数据|
 |修改|update, set|需要一个子查询|
-||||
+|||对数据库中的每一个表生成一个SQL语句|
 ||||
 ||||
 ||||
