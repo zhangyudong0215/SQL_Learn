@@ -11,12 +11,12 @@ Practice makes perfect
 |批量插入数据|insert||
 |批量插入可能重复的数据|insert, ignore|sqlite3和mysql写法不同|
 |创建索引1|create unique index||
-|删除记录|delete|删除emp_no重复记录保留最小的id对应记录|
-|替换|update, replace|替换行数据|
-|修改|update, set|需要一个子查询|
-|||对数据库中的每一个表生成一个SQL语句|
-||||
-||||
+|删除emp_no重复记录保留最小的id对应记录|delete||
+|使用replace替换行数据|update, replace||
+|修改获取奖金的员工当前的薪水|update, set||
+|针对每一个表生成一个sql语句|||
+|统计字符串出现次数|函数|length函数和replace函数|
+|根据字符串末尾进行排序|||
 ||||
 ||||
 ||||
